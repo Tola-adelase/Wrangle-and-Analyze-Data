@@ -74,5 +74,5 @@ Define, Code and Test:
 
 • Merged the clean versions of the dataframes
 
-Conclusion The merged cleaned data frame was stored (dog_twitterpage), analyzed, and visualized. The project taught how that real-world data are rarely found in a single source and must be combined from multiple sources before any sort of analysis can be performed. It also aided my understanding of how tidiness and quality concerns can arise in data, as well as how to deal with them.
+- Conclusion: The merged cleaned data frame was stored (dog_twitterpage), analyzed, and visualized. The project taught how that real-world data are rarely found in a single source and must be combined from multiple sources before any sort of analysis can be performed. It also aided my understanding of how tidiness and quality concerns can arise in data, as well as how to deal with them.
  
