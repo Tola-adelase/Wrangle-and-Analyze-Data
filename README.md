@@ -1,6 +1,6 @@
 # Wrangle and Analyze Data
 
-ntroduction
+Introduction
 This Wrangle and Analyze Data Project is part of Udacity's Nanodegree Data Analyst program. This project involved wrangling (and analyzing and visualizing) data from the Twitter user @ WeRateDogs, collected from different sources connected with the tweets. WeRateDogs is a Twitter account that rates photos of people's dogs in a humorous way. These ratings almost always have a denominator of 10.
 
 Objectives
